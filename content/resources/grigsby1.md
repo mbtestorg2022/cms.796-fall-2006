@@ -5,6 +5,7 @@ description: 'This resource provides an example of a completed ten-page comparat
   The Sublime Landscape in Frankenstein and Moby Dick, is written by Neal Grigsby.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/cms-796-major-media-texts-fall-2006/025b8f96f3e289587da9f27b966f4247_grigsby1.pdf
 file_type: application/pdf
+parent_uid: c707ef04-fffa-2f53-208d-6debc0a00527
 resourcetype: Document
 title: grigsby1.pdf
 uid: 025b8f96-f3e2-8958-7da9-f27b966f4247

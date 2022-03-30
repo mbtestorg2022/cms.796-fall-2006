@@ -6,6 +6,7 @@ description: 'This resource provides an example of a completed three-page close 
   as Feminist, is written by Evan Wendel.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/cms-796-major-media-texts-fall-2006/8a22b40f9013bd8817def4e3b0a4dfe8_wendel1.pdf
 file_type: application/pdf
+parent_uid: c707ef04-fffa-2f53-208d-6debc0a00527
 resourcetype: Document
 title: wendel1.pdf
 uid: 8a22b40f-9013-bd88-17de-f4e3b0a4dfe8

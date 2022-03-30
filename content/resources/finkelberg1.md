@@ -6,6 +6,7 @@ description: 'This resource provides an example of a completed completed ten-pag
   Finkelberg, and includes comments from the instructor.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/cms-796-major-media-texts-fall-2006/7818c21723579568faf36d2630b6608a_finkelberg1.pdf
 file_type: application/pdf
+parent_uid: c707ef04-fffa-2f53-208d-6debc0a00527
 resourcetype: Document
 title: finkelberg1.pdf
 uid: 7818c217-2357-9568-faf3-6d2630b6608a

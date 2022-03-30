@@ -5,6 +5,7 @@ description: 'This resource provides an example of a completed completed ten-pag
   of Shelley?s Frankenstein in Miller?s Capote, is written by Sam Ford.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/cms-796-major-media-texts-fall-2006/be11e74563a8329466ca4d1ce4cbc89a_ford1.pdf
 file_type: application/pdf
+parent_uid: c707ef04-fffa-2f53-208d-6debc0a00527
 resourcetype: Document
 title: ford1.pdf
 uid: be11e745-63a8-3294-66ca-4d1ce4cbc89a
